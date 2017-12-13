@@ -8,3 +8,6 @@ This chang form github.
 
 3 version;
 This change from local branch.
+
+4 version;
+head.c only edit under master.
